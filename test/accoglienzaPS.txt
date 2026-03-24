@@ -1,0 +1,14 @@
+PROTOCOLLO ACCOGLIENZA PRONTO SOCCORSO (v. 2024)
+
+Al momento dell'arrivo, il paziente deve presentare la tessera sanitaria al desk del Triage.
+L'assegnazione del codice colore segue questa priorità:
+
+    Rosso: Emergenza interruzione funzioni vitali (Immediato).
+    Arancione: Urgenza indifferibile (entro 15 minuti).
+    Azzurro: Urgenza differibile (entro 60 minuti).
+    Verde: Urgenza minore (entro 120 minuti).
+    Bianco: Non urgente (oltre 240 minuti).
+
+Gli accompagnatori possono sostare in sala d'attesa, ma solo uno alla volta può accedere alle sale visita se autorizzato dal personale medico.
+
+Il pasto per i pazienti in osservazione viene servito alle ore 12:30 e alle ore 18:30.

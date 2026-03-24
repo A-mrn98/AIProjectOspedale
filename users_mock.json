@@ -1,0 +1,5 @@
+{
+    "RSSMRA80A01H501W": {"password": "pass", "ruolo": "paziente", "nome": "Mario Rossi"},
+    "mario.rossi@policlinico.it": {"password": "admin", "ruolo": "staff", "nome": "Dott. Rossi"},
+    "admin@policlinico.it": {"password": "root", "ruolo": "staff", "nome": "Admin Sistema"}
+}
